@@ -6,7 +6,7 @@ Update: I ended up sixth due to some late C10 submissions.
 
 ## Scoring
 
-I played under the [team name 'ion](https://2018.squarectf.com/team/807) and scored as follows:
+I played under the [team name 'ion'](https://2018.squarectf.com/team/807) and scored as follows:
 
 ![SquareCTF Team 'ion'](./images/ion_solves.png)
 
