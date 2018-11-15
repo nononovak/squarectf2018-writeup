@@ -1,10 +1,13 @@
 # SquareCTF 2018 Writeup
 
-Enclosed is my writeup for the 2018 Square CTF (https://2018.squarectf.com/). Overall, the competition was a lot of fun. I worked on the entire CTF solo and was able to solve each of the ten problems. Had I spent more time immediately after each problem was released I might have placed higher, but as-is I managed > 9000 points on eight of the ten problems. My general strategy was to rely on custom solutions, and only in a couple cases did I resort to using a custom library to solve each challenge. As I write this, I'm sitting in 5th place with a day of the competition to go. I'll likely slip down as more solvers of the last few problems come in, but overall it was a good time.
+Enclosed is my writeup for the 2018 Square CTF (https://squarectf.com/2018/index.html). Overall, the competition was a lot of fun. I worked on the entire CTF solo and was able to solve each of the ten problems. Had I spent more time immediately after each problem was released I might have placed higher, but as-is I managed > 9000 points on eight of the ten problems. My general strategy was to rely on custom solutions, and only in a couple cases did I resort to using a stock library to solve each challenge. As I write this, I'm sitting in 5th place with a day of the competition to go. I'll likely slip down as more solvers of the last few problems come in, but overall it was a good time.
+
+Update: I ended up sixth due to some late C10 submissions.
 
 ## Scoring
 
-[SquareCTF Team 'ion'](https://2018.squarectf.com/team/807)
+I played under the [team name 'ion](https://2018.squarectf.com/team/807) and scored as follows:
+
 ![SquareCTF Team 'ion'](./images/ion_solves.png)
 
 ## Problems
