@@ -10,6 +10,8 @@ I played under the [team name 'ion'](https://2018.squarectf.com/team/807) and sc
 
 ![SquareCTF Team 'ion'](./images/ion_solves.png)
 
+The final competition results can be found [here](https://squarectf.com/2018/results.html).
+
 ## Problems
 
 - [C1: dot-and-dash](./C1.md): A simple bit manipulation programming exercise
